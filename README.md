@@ -1,5 +1,33 @@
 # find-skills (Windows Compatible Fork)
 
+<div align="center">
+
+![GitHub stars](https://img.shields.io/github/stars/KimYx0207/findskill?style=social)
+![GitHub forks](https://img.shields.io/github/forks/KimYx0207/findskill?style=social)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+**Windows 兼容版 Claude Code 技能搜索工具**
+
+</div>
+
+> 🔗 **GitHub仓库**：[https://github.com/KimYx0207/findskill](https://github.com/KimYx0207/findskill)
+
+> 老金的开源知识库，实时更新群二维码：https://my.feishu.cn/wiki/OhQ8wqntFihcI1kWVDlcNdpznFf
+
+---
+
+## 📞 联系方式
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh/main/images/二维码基础款.png" alt="联系方式" width="600"/>
+  <p><strong>获取更多AI资讯和技术支持</strong></p>
+  <p>
+    🌐 <a href="https://www.aiking.dev/">aiking.dev</a>
+  </p>
+</div>
+
+---
+
 [中文文档](./README_CN.md)
 
 A Windows-compatible fork of [vercel-labs/skills find-skills](https://github.com/vercel-labs/skills) that fixes the empty output issue in Claude Code on Windows.
