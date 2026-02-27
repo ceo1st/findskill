@@ -1,3 +1,5 @@
+[中文](./README_CN.md) | [English](./README.md)
+
 # find-skills（Windows 兼容版）
 
 [English](./README.md)
